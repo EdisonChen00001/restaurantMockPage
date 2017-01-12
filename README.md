@@ -1,2 +1,0 @@
-# restaurantMockPage
-Mock with restaurant 
